@@ -1,0 +1,11 @@
+{
+    "id": "aitweaks",
+    "name": "AI Tweaks",
+    "author": "Genir",
+    "utility": "true",
+    "version": { "major":"0", "minor": "1", "patch": "0" },
+    "description": "A mod introducing various combat AI tweaks.",
+    "gameVersion": "0.96a-RC10",
+    "modPlugin":"aitweaks.AITweaks",
+    "jars":["jars/AITweaks.jar"]
+}
