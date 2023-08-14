@@ -10,16 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1712b87b-987d-444e-bc8f-054b09d8cf0a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AITweaks_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/AITweakHighEnergyFocus_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/starsector_core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/starsector_core.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AITweaks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AITweakHighEnergyFocus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/config/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/shipsystems/highenergyfocus.system" beforeDir="false" afterPath="$PROJECT_DIR$/data/shipsystems/highenergyfocus.system" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jars/AITweaks.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jars/AITweakHighEnergyFocus.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mod_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/highenergyfocusai.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

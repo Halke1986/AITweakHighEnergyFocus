@@ -3,7 +3,7 @@
     "name": "AI Tweak High Energy Focus",
     "author": "Genir",
     "utility": "true",
-    "version": { "major":"0", "minor": "1", "patch": "0" },
+    "version": { "major":"1", "minor": "0", "patch": "0" },
     "description": "A mod improving how the AI uses High Energy Focus ship system.",
     "gameVersion": "0.96a-RC10",
     "jars":["jars/AITweakHighEnergyFocus.jar"]
