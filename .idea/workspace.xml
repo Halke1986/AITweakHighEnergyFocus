@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="AITweaks:jar" />
+      <artifact name="AITweakHighEnergyFocus:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,10 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1712b87b-987d-444e-bc8f-054b09d8cf0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/shipsystems/highenergyfocus.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AITweaks_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/AITweakHighEnergyFocus_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/starsector_core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/starsector_core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jars/AITweaks.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jars/AITweaks.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/hef.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AITweaks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AITweakHighEnergyFocus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/shipsystems/highenergyfocus.system" beforeDir="false" afterPath="$PROJECT_DIR$/data/shipsystems/highenergyfocus.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jars/AITweaks.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jars/AITweakHighEnergyFocus.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mod_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/hef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/highenergyfocusai.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +48,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Program Files (x86)/Fractal Softworks/Starsector97/mods/AITweaks/data/shipsystems",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Program Files (x86)/Fractal Softworks/Starsector96/mods/AITweakHighEnergyFocus",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.appearance"
@@ -51,16 +57,33 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks\data\shipsystems\scripts\ai" />
       <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks\data\shipsystems" />
       <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks" />
       <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks\src\main\kotlin" />
       <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks\.idea\libraries" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files (x86)\Fractal Softworks\Starsector97\mods\AITweaks\src\main\kotlin" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="AITweaks.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/jars/AITweaks.jar" />
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AITweakHighEnergyFocus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AITweakHighEnergyFocus" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
@@ -78,6 +101,9 @@
       <updated>1691274314848</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.name" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

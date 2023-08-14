@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AITweakHighEnergyFocus:jar">
+    <output-path>$PROJECT_DIR$/jars</output-path>
+    <root id="archive" name="AITweakHighEnergyFocus.jar">
+      <element id="module-output" name="AITweakHighEnergyFocus" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../LazyLib/jars/lib/Kotlin-Runtime.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../starsector-core/starfarer.api.jar" path-in-jar="/" />
+      <element id="library" level="project" name="starsector-core" />
+    </root>
+  </artifact>
+</component>
