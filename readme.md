@@ -26,11 +26,13 @@ The mod affects all ships, there's no possibility to toggle it on/off for select
 
 The logic used by the modified AI is Very simple. Triggering HEF is tied directly to firing the 
 largest energy weapon installed on a ship. This means a ship with at least one large weapon
-will never activate HEF when firing just medium or small weapons. The simple solution is subject
-to change in next releases.
+will never activate HEF when firing just medium or small weapons. 
+
+Additionally, firing at fighters and missiles will not trigger HEF.
+
+The simple solution is subject to change in next releases.
 
 ## Future ideas ##
 
-- Don't trigger HEF when firing only at fighters and missiles.
 - Don't trigger HEF when firing High Explosive weapons (High Intensity Laser) or weapons with 
   `USE_LESS_VS_SHIELDS` tag (Mining Blaster, IR Autolance) on an enemy with shields raised.

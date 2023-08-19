@@ -1,0 +1,5 @@
+{
+  "#plugins":{
+    "Hef":"com.genir.hefaitweak.DebugPlugin"
+  }
+}
