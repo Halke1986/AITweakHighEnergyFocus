@@ -5,3 +5,5 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+data/config/settings.json
+src/main/kotlin/debugplugin.kt
