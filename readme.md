@@ -19,8 +19,10 @@ by CapnHector.
 
 ## Installation ##
 
-Just download the zip and unpack it into the mods directory. There's no configuration required.
+Download the zip and unpack it into the mods directory. There's no configuration required.
 The mod affects all ships, there's no possibility to toggle it on/off for selected ships.
+
+Requires LazyLib.
 
 ## Details ##
 
@@ -31,6 +33,7 @@ will never activate HEF when firing just medium or small weapons.
 Additionally:
 
 * firing at fighters and missiles will not trigger HEF
+* firing at ships in phase will not trigger HEF
 * firing anti-armor weapons (weapons with High Explosive damage or with `USE_LESS_VS_SHIELDS` tag)
   will not trigger HEF
 
