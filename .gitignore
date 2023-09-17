@@ -1,9 +1,13 @@
 ### IntelliJ IDEA ###
 out/
-.idea/workspace.xml
-.idea/uiDesigner.xml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/csv-editor.xml
+
 data/config/settings.json
+data/weapons/weapon_data.csv
+
 src/main/kotlin/debugplugin.kt

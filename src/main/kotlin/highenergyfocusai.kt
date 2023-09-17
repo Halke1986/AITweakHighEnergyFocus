@@ -70,6 +70,7 @@ fun weaponShouldTriggerHEF(w: TargetedWeapon, size: WeaponAPI.WeaponSize) = when
     w.target == null -> false
     w.target.isFighter -> false
     w.target.isDrone -> false
+    w.target.isPhased -> false
     w.weapon.isAntiArmor && willHitShield(w) -> false
     else -> true
 }
